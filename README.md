@@ -11,7 +11,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaD-Pr0gEr&theme=cobalt&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaD-Pr0gEr&repo=python_beginner&show_owner=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaD-Pr0gEr&repo=python_beginner&show_owner=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
