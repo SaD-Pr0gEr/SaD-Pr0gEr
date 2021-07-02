@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/33/46/92/334692bc0b661ceb6962376174ee125a.png" height="175px"/></a>
 
-<h1 align="center">👋 Привет, я @SaD_Pr0gEr, меня зовут Озод</h1>
+<h1 align="center">👋 Привет, я @alone, меня зовут Озод</h1>
 
 
 ## Обо мне
