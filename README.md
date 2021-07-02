@@ -7,7 +7,7 @@
 
 - 👀 Интересуюсь в программирования на языке Python(боты, серверная часть сайтов и тп)
 
-- 🌱 Активно изучаю язык **Python** 
+- 🌱 Активно изучаю язык **Python** и **JavaScript**
 
 - 💞️ Хочу сотрудничить над проектами где надо реализовать API c CRUD методами, разработка ботов(ВК, Telegram) и тому подобные)
 
@@ -21,6 +21,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgresql.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/celery.png"/> </a>
