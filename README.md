@@ -1,21 +1,21 @@
 <a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/33/46/92/334692bc0b661ceb6962376174ee125a.png" height="175px"/></a>
 
-<h1 align="center">👋 Привет, я @alone, меня зовут Озод</h1>
+<h1 align="center">👋 Hi, I'm @alone, my name is Ozod</h1>
 
 
-## Обо мне
+## About me
 
-- 👀 Интересуюсь в программирования на языке Python(боты, серверная часть сайтов и тп)
+- 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
 
-- 🌱 Активно изучаю язык **Python** и **JavaScript** и ещё **Kotlin**(но не так активно)
+- 🌱 I am actively learning **Python** and **JavaScript**
 
-- 💞️ Хочу сотрудничить над проектами где надо реализовать API c CRUD методами, разработка ботов(ВК, Telegram) и тому подобные)
+- 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
-- 📫 Можете меня найти по почте sad.pr0ger@gmail.com
+- 📫 You can find me by mail sad.pr0ger@gmail.com
 
-- 📌 Этот аккаунт только для резюме и портфолио) Если хотите увидеть все репозитории(фейловые проекты :wink:) то пройдите по [ссылке](https://github.com/ozodchik)
+- 📌 This account is for resume and portfolio only) If you want to see all the repositories (fail projects:wink:) then follow the [link](https://github.com/ozodchik)
 
-## 🚀 Языки программирование и инструменты:
+## 🚀Programming languages and tools:
 
 <p align="left">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -43,7 +43,7 @@
     </a>
 </p>
 
-## 📊 Моя статистика GitHub
+## 📊 My GitHub stats
 
   <br/>
     <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
