@@ -36,7 +36,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
     <a href="https://docs.gunicorn.org/en/stable/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_82/102_gunicorn.1765ddf8b9.svg" height='45px',                 width="45px"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a>
+<!--     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a> -->
 </p>
 <br/>
 
