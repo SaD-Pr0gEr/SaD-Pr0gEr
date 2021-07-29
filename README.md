@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/33/46/92/334692bc0b661ceb6962376174ee125a.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/33/46/92/334692bc0b661ceb6962376174ee125a.png" height="175px"/></a> -->
 
 <h1 align="center">👋 Hi, I'm @alone, my name is Ozod</h1>
 
