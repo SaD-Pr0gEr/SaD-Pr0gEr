@@ -25,7 +25,7 @@
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a>
     <a href="https://docs.aiohttp.org/en/stable/" target="_blank"> <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-icon-128x128.png" height='40px',                      width="40px"/> </a>
     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+<!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a>
     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
