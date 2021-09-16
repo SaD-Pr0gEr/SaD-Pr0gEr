@@ -7,7 +7,9 @@
 
 - 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
 
-- 🌱 I am actively learning **Python** and **JavaScript**
+- 🌱 I am actively work with **Python** and **JavaScript**
+
+- :clock9: actively learning **React Js** and **NodeJs**
 
 - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
@@ -23,6 +25,8 @@
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a>
     <a href="https://docs.aiohttp.org/en/stable/" target="_blank"> <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-icon-128x128.png" height='40px',                      width="40px"/> </a>
     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a>
     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
     <a href="https://docs.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
@@ -36,7 +40,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
     <a href="https://docs.gunicorn.org/en/stable/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_82/102_gunicorn.1765ddf8b9.svg" height='45px',                 width="45px"/> </a>
-<!--     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a> -->
+    <a href="http://nginx.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a>
 </p>
 <br/>
 
