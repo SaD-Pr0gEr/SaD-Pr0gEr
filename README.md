@@ -66,9 +66,13 @@
 
 <br/>
 
+<!-- <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ozod-ochilboev-894129217" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/ozod-ochilboev-894129217?trk=profile-badge">Ozod Ochilboev</a></div> -->
+              
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SaD-Pr0gEr">
 </a>
 <a href="https://github.com/SaD-Pr0gEr?tab=followers"><img src="https://img.shields.io/github/followers/SaD-Pr0gEr?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ -->
