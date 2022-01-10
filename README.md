@@ -8,8 +8,8 @@
 - 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
 
 - 🌱 I am actively work with **Python** and **JavaScript**
-
-- :clock9: actively learning **React Js** and **NodeJs**
+<!-- 
+- :clock9: actively learning **React Js** and **NodeJs** -->
 
 - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
