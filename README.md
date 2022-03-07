@@ -7,9 +7,9 @@
 
 - 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
 
-- 🌱 I am actively work with **Python** and **Golang**
-<!-- 
-- :clock9: actively learning **React Js** and **NodeJs** -->
+- 🌱 I am actively work with **Python**
+
+- :clock9: actively learning **Dart**
 
 - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
@@ -23,7 +23,9 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a>
-    <a href="https://docs.aiohttp.org/en/stable/" target="_blank"> <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" height='40px',                      width="40px"/> </a>
+    <a href="https://docs.aiohttp.org/en/stable/" target="_blank"> <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" height='40px', width="40px"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" height='40px', width="40px"/> </a>
+    <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" height='40px', width="40px"/> </a>
 <!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> -->
 <!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
 <!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a> -->
@@ -53,16 +55,12 @@
 ## 📊 My GitHub stats
 
   <br/>
-    <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
-    <br/>
-  <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaD-Pr0gEr&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>
+  <div>
+    <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /> </a>
+    <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaD-Pr0gEr&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true"/> </a>
+  </div>  
   <br/>
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/SaD-Pr0gEr/github-readme-activity-graph"><img alt="SaD-Pr0gEr Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaD-Pr0gEr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
