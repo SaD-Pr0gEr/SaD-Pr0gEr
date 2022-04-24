@@ -28,11 +28,11 @@
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px', width="40px"/> </a>
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px', width="40px"/> </a>
      <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/drf.svg" height='40px', width="40px"/> </a>
+    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/> </a>
     <a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" height='40px', width="40px"/> </a>
 <!--     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" height='40px', width="40px"/> </a>
     <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" height='40px', width="40px"/> </a> -->
-<!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> -->
 <!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
 <!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a> -->
 <!--     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> -->
