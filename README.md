@@ -13,9 +13,7 @@
 
 - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
-- 📫 You can find me by mail sad.pr0ger@gmail.com
-
-- 📌 This account is for resume and portfolio only) If you want to see all the repositories (fail projects:wink:) then follow the [link](https://github.com/ozodchik)
+- 📫 You can find me by email sad.pr0ger@gmail.com
 
 ## 🚀Programming languages and tools:
 
