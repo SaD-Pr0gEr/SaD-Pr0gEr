@@ -25,7 +25,7 @@
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://img.icons8.com/color/48/000000/selenium.png"/> </a>
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px', width="40px"/> </a>
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px', width="40px"/> </a>
-     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/drf.svg" height='40px', width="40px"/> </a>
+     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/> </a>
     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
