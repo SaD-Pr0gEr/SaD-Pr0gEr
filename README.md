@@ -28,6 +28,7 @@
      <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/> </a>
     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/> </a>
+    <a href="https://vuex.vuejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height='40px', width="40px"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
 <!--     <a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" height='40px', width="40px"/> </a> -->
 <!--     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" height='40px', width="40px"/> </a>
