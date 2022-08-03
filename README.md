@@ -9,7 +9,7 @@
 
 - 🌱 I am actively work with **Python**
 
-- :clock9: actively learning **VueJS** and **NuxtJS**
+- :clock9: actively learning **VueJS**
 
 - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
