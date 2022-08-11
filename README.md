@@ -9,7 +9,7 @@
 
 - 🌱 I am actively work with **Python**
 
-- :clock9: actively learning **VueJS**
+- :clock9: actively learning **C++**
 
 - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
@@ -19,6 +19,8 @@
 
 <p align="left">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+   <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" height='45px', width="45px"/></a>
     <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a>
     <a href="https://docs.aiohttp.org/en/stable/" target="_blank"> <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" height='40px', width="40px"/> </a>
@@ -27,7 +29,6 @@
     <a href="https://docs.aiogram.dev/en/latest/" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px', width="40px"/> </a>
     <a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/selenium.png"/> </a>
      <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/> </a>
-    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/> </a>
     <a href="https://vuex.vuejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height='40px', width="40px"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
@@ -50,8 +51,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
     <a href="https://docs.gunicorn.org/en/stable/" target="_blank"> <img src="https://andreyex.ru/wp-content/uploads/2021/04/Kak-ispolzovat-Nginx-s-Flask.png" height='45px',                 width="45px"/> </a>
-    <a href="http://nginx.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a>
-</p>
+    <a href="http://nginx.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a></p>
 <br/>
 
 <p align="center">
