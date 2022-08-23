@@ -64,8 +64,8 @@
 
   <br/>
   <div>
-    <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /> </a>
-    <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaD-Pr0gEr&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true"/> </a>
+    <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" style="width: 50%;"/> </a>
+    <a href="https://github.com/SaD-Pr0gEr/github-readme-stats"><img alt="SaD-Pr0gEr Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaD-Pr0gEr&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true" style="width: 50%;"/> </a>
   </div>  
   <br/>
 
