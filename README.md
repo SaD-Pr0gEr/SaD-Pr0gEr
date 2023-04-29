@@ -24,7 +24,7 @@
     <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a>
     <a href="https://docs.aiohttp.org/en/stable/" target="_blank"> <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" height='40px', width="40px"/> </a>
-    <a href="https://pydantic-docs.helpmanual.io/" target="_blank"> <img src="https://pydantic-docs.helpmanual.io/logo-white.svg" height="40px"/> </a>
+<!--     <a href="https://pydantic-docs.helpmanual.io/" target="_blank"> <img src="https://pydantic-docs.helpmanual.io/logo-white.svg" height="40px"/> </a> -->
     <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px', width="40px"/> </a>
     <a href="https://docs.aiogram.dev/en/latest/" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px', width="40px"/> </a>
     <a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" width="50"/> </a>
