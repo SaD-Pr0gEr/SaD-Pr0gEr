@@ -38,7 +38,7 @@
 <!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
 <!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a> -->
 <!--     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> -->
-    <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
+    <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height='40px', width="40px"/> </a>
     <a href="https://docs.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px', width="40px"/> </a>
     <a href="https://docs.celeryproject.org/en/stable/" target="_blank"> <img src="https://img.stackshare.io/service/1075/celery.png" height='45px', width="45px"/> </a>
