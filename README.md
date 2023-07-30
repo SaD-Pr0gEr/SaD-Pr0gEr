@@ -66,7 +66,7 @@
 
   <br/>
   <div>
-    <img alt="SaD-Pr0gEr Github Stats" align="top" src="https://github-readme-stats-sigma-lilac-86.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" style="width: 47%;"/>
+    <img alt="SaD-Pr0gEr Github Stats" align="top" src="https://github-readme-stats-sigma-lilac-86.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&line_height=30&card_width=400" style="width: 47%;"/>
     <img alt="SaD-Pr0gEr Github Top Languages" align="right" src="https://github-readme-stats-sigma-lilac-86.vercel.app/api/top-langs/?username=SaD-Pr0gEr&langs_count=10&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true" style="width: 45%;"/>
   </div>  
   <br/>
