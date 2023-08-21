@@ -61,7 +61,12 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sad-proger's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaD-Pr0gEr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </p>
 
 ## 📊 My GitHub stats
