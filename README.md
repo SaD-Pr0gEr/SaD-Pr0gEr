@@ -56,18 +56,21 @@
     <a href="http://nginx.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a></p>
 <br/>
 
-<p>
+<p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sad-proger's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaD-Pr0gEr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <!--START_SECTION:waka-->
+</p>
+
+### <img src="https://www.raycast.com/_next/image?url=https%3A%2F%2Ffiles.raycast.com%2F3erhvipn1o7fd5epew1cdvsawhj4&w=64&q=75" width="30px" height="30px" /> WakaTime stats
+
+<!--START_SECTION:waka-->
 
 ```txt
 No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-</p>
 
 ## 📊 My GitHub stats
 
