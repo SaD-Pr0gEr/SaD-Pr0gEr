@@ -62,7 +62,7 @@
     </a>
 </p>
 
-### <img src="https://www.raycast.com/_next/image?url=https%3A%2F%2Ffiles.raycast.com%2F3erhvipn1o7fd5epew1cdvsawhj4&w=64&q=75" width="30px" height="30px" /> WakaTime stats
+### ⏲️ WakaTime stats
 
 <!--START_SECTION:waka-->
 
@@ -88,7 +88,7 @@ SQL              0 secs          ░░░░░░░░░░░░░░░�
 
 <br/>
 
-## Codewars
+## 💢 Codewars
 <div><img src="https://www.codewars.com/users/SaD-Pr0gEr/badges/large" /></div>
               
 
