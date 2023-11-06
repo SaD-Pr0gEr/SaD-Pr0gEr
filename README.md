@@ -21,7 +21,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-   <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" height='45px', width="45px"/></a>
+<!--    <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" height='45px', width="45px"/></a> -->
     <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a>
     <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="50"/> </a>
@@ -33,7 +33,6 @@
      <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/> </a>
     <a href="https://vuex.vuejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height='40px', width="40px"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
 <!--     <a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" height='40px', width="40px"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" height='40px', width="40px"/> </a>
     <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" height='40px', width="40px"/> </a> -->
