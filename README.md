@@ -51,7 +51,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
-    <a href="https://docs.gunicorn.org/en/stable/" target="_blank"> <img src="https://andreyex.ru/wp-content/uploads/2021/04/Kak-ispolzovat-Nginx-s-Flask.png" height='45px',                 width="45px"/> </a>
     <a href="http://nginx.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png" height='40px', width="40px"/> </a></p>
 <br/>
 
