@@ -45,6 +45,7 @@
     <a href="https://docs.celeryproject.org/en/stable/" target="_blank"> <img src="https://img.stackshare.io/service/1075/celery.png" height='45px', width="45px"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" height='45px', width="45px"/> </a>
     <a href="https://help.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> </a>
+    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a>
     <a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   
