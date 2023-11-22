@@ -66,11 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                                   24 hrs 2 mins   ████████████████████████▓   98.15 %
-systemd                                  12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Service unit configuration for systemd   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-INI                                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-YAML                                     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python                                   28 hrs 11 mins  ████████████████████████▒   97.65 %
+systemd                                  12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Vue.js                                   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Service unit configuration for systemd   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+XML                                      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
