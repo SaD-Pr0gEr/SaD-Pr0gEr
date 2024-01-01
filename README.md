@@ -9,7 +9,7 @@
 
 - 🌱 I am actively work with **Python**
 
-- :clock9: actively learning **C++/CS/IoT/Backend Technologies**
+- :clock9: actively learning **Linux System/Network administration** <!-- C++/CS/IoT/Backend Technologies -->
 
 - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
