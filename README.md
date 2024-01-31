@@ -11,8 +11,6 @@
 
 - :clock9: actively learning **Linux System/Network administration** <!-- C++/CS/IoT/Backend Technologies -->
 
-- 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
-
 - 📫 You can find me by email sad.pr0ger@gmail.com
 
 ## 🚀Programming languages and tools:
