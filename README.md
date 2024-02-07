@@ -64,11 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                14 hrs 33 mins  █████████▓░░░░░░░░░░░░░░░   38.77 %
-JavaScript            13 hrs 43 mins  █████████░░░░░░░░░░░░░░░░   36.57 %
-CSS                   5 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Gettext Catalog       35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Markdown              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Python                11 hrs 57 mins  ███████████▓░░░░░░░░░░░░░   46.94 %
+JavaScript            7 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.58 %
+CSS                   2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Gettext Catalog       35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
