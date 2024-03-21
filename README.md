@@ -64,11 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                13 hrs 7 mins   █████████████░░░░░░░░░░░░   51.48 %
-Vue.js                3 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-SQL                   2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Nginx Configuration   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Bash                  1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Python                10 hrs 35 mins  ██████████░░░░░░░░░░░░░░░   40.27 %
+Vue.js                5 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+SQL                   2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Nginx Configuration   1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+YAML                  1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->
