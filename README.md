@@ -64,11 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                9 hrs 4 mins    █████████████████░░░░░░░░   67.59 %
-Vue.js                2 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-Nginx Configuration   1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-TypeScript            24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-.env file             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Python                9 hrs 44 mins   ██████████████████▓░░░░░░   74.77 %
+Nginx Configuration   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Vue.js                1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+.env file             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Bash                  10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
