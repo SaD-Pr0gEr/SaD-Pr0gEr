@@ -64,11 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                17 hrs 15 mins  ████████████████████░░░░░   79.60 %
-Markdown              2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-JavaScript            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-GitIgnore file        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-.env file             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Python             18 hrs 10 mins  ████████████████████▓░░░░   83.11 %
+Markdown           2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+JSON               28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+GitIgnore file     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+.env file          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
