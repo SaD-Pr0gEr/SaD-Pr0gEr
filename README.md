@@ -64,11 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                                   2 hrs 49 mins   ███████████████████▓░░░░░   78.23 %
-JavaScript                               24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-HTML                                     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Service unit configuration for systemd   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Text                                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python                                   3 hrs           ████████████▓░░░░░░░░░░░░   50.62 %
+Vue.js                                   1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+HTML                                     31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+CSS                                      22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+TypeScript                               16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
