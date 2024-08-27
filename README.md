@@ -64,11 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 11 mins   ███████████████▓░░░░░░░░░   62.94 %
-Markdown           36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-Text               31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Requirements.txt   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Shell Script       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
