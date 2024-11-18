@@ -40,7 +40,7 @@
     <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" height='40px', width="40px"/></a>
     <a href="https://docs.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
     <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px', width="40px"/></a>
-    <a href="https://docs.celeryproject.org/en/stable/" target="_blank"> <img src="https://img.stackshare.io/service/1075/celery.png" height='45px', width="45px"/></a>
+    <a href="https://docs.celeryproject.org/en/stable/" target="_blank"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" height='45px', width="45px"/></a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" height='45px', width="45px"/></a>
     <a href="https://archlinux.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arch-linux.png"/></a>
     <a href="https://help.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/></a>
