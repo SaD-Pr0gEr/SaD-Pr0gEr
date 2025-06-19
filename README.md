@@ -65,11 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                                   15 hrs 24 mins  ████████████████████████▒   97.96 %
-INI                                      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Bash                                     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-.env file                                5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Service unit configuration for systemd   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python                                   18 hrs 1 min    ████████████████████████▒   96.80 %
+Text                                     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JSON                                     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+.env file                                5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+GitIgnore file                           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
