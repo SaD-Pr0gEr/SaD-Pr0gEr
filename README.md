@@ -65,11 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                15 hrs 24 mins  ████████████████████████░   96.09 %
-HTML                  20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JavaScript            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Nginx Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python                13 hrs 26 mins  ████████████████████████░   95.59 %
+HTML                  20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Nginx Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+.env file             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
