@@ -11,8 +11,6 @@
 
 - :clock9: actively learning **Linux System/Network administration** <!-- C++/CS/IoT/Backend Technologies -->
 
-- 📫 You can find me by email sad.pr0ger@gmail.com
-
 ## 🚀Programming languages and tools:
 
 <p align="left">  
