@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                18 hrs 27 mins  ███████████████▓░░░░░░░░░   62.22 %
-Vue.js                5 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-TypeScript            2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Nginx Configuration   1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-HTML                  43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python                17 hrs 15 mins  ████████████████████▓░░░░   83.28 %
+Nginx Configuration   1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Vue.js                58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+HTML                  43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Bash                  11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
