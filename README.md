@@ -63,10 +63,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                5 hrs 54 mins   ███████████████████████▒░   93.00 %
-Nginx Configuration   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Bash                  10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-.env file             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Python   28 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
