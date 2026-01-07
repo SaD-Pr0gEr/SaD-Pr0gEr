@@ -26,7 +26,7 @@
     <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px', width="40px"/></a>
     <a href="https://docs.aiogram.dev/en/latest/" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px', width="40px"/></a>
     <a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" width="50"/></a>
-     <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/></a>
+     <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://cdn.brandfetch.io/django-rest-framework.org/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" height='50px', width="60px"/></a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/></a>
     <a href="https://vuex.vuejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height='40px', width="40px"/></a>
 <!--     <a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" height='40px', width="40px"/> </a>
