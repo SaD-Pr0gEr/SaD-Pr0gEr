@@ -63,11 +63,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue           26 hrs 8 mins         ███████████████████▒░░░░░   77.61 %
-TypeScript    3 hrs 57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Python        3 hrs 35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-PythonStub    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Vue          20 hrs 47 mins        ██████████████████▒░░░░░░   73.90 %
+TypeScript   3 hrs 47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Python       3 hrs 32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+PythonStub   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
