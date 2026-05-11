@@ -63,10 +63,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          20 hrs 47 mins        ██████████████████▒░░░░░░   73.90 %
-TypeScript   3 hrs 47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Python       3 hrs 32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-PythonStub   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Vue          15 hrs                █████████████████░░░░░░░░   68.57 %
+Python       3 hrs 45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+TypeScript   3 hrs 7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
 
 <!--END_SECTION:waka-->
