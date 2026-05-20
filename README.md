@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          15 hrs 56 mins        ████████████████▓░░░░░░░░   66.94 %
-Python       4 hrs 39 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-TypeScript   2 hrs 43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-textmate     29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-PythonStub   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Vue          10 hrs 6 mins         ███████████████▒░░░░░░░░░   60.68 %
+Python       4 hrs 4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+TypeScript   2 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+textmate     8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+PythonStub   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
