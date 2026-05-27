@@ -63,9 +63,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          1 hr 3 mins           █████████████▒░░░░░░░░░░░   52.73 %
-Python       49 mins               ██████████▒░░░░░░░░░░░░░░   40.84 %
-TypeScript   7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
